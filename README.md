@@ -52,13 +52,15 @@ contact-management-app/
 
 ##Key Features Implemented
 ✅ Bootstrap 5 UI
-✅ Contact List
 ✅ Search & Filtering by Name/Email
 ✅ Sorting Contacts (Ascending/Descending by Name)
 ✅ Adding Contacts (Reactive Forms )
 ✅ Editing & Deleting Contacts
 ✅ Bootstrap Table for Listing Contacts
 ✅ Persistent Data Storage using JSON Server
+
+
+
 
 
 
