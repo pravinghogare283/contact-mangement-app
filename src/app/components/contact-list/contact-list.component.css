@@ -1,0 +1,14 @@
+.edit-icon{
+    color: var(--font-color);
+    font-size: 14px;
+    margin-left: 5px;
+}
+.view-icon {
+    font-size: 14px;
+    margin-left: 5px;
+}
+.delete-icon{
+    color: red;
+    font-size: 14px;    
+    margin-left: 5px;
+}

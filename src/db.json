@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "msg": "Contact Details Fetched Successfully",
+  "status": 200,
+  "result": [
+    {
+      "name": "MS Dhoni",
+      "emailId": "mahi@gmail.com",
+      "phoneNo": "9800043210",
+      "id": "5"
+    },
+    {
+      "name": "Rohit Sharma",
+      "emailId": "rohits@gmail.com",
+      "phoneNo": "9910043210",
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "name": "Hardik Pandya",
+      "emailId": "hardikp@gmail.com",
+      "phoneNo": "9900043200"
+    },
+    {
+      "id": "8",
+      "name": "Ruturaj  Gaikwad",
+      "emailId": "ruturajg@gmail.com",
+      "phoneNo": "9800040000"
+    },
+    {
+      "id": "9",
+      "name": "Lokesh Rahul",
+      "emailId": "lokeshr@gmail.com",
+      "phoneNo": "9798043210"
+    },
+    {
+      "name": "Sachin Tendulkar",
+      "emailId": "sachint@gmail.com",
+      "phoneNo": "9810201020",
+      "id": "10"
+    },
+    {
+      "id": "3959",
+      "name": "Sam karan",
+      "emailId": "samk@gmail.com",
+      "phoneNo": "7855661232"
+    },
+    {
+      "id": "cad0",
+      "name": "Alex carrey",
+      "emailId": "alex12@gmail.com",
+      "phoneNo": "9632587410"
+    },
+    {
+      "name": "mark wood",
+      "emailId": "markw@gmail.com",
+      "phoneNo": "9856321470",
+      "id": "a3be"
+    }
+  ]
+}
